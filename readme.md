@@ -3,7 +3,7 @@ mkdir proj_dir \
 cd proj_dir \
 python3 -m venv .venv \
 #activate 
-source .venv/bin/activate \
+source .venv/bin/activate 
 
 /*
 deactivate
